@@ -1,2 +1,2 @@
-# Kubernetes_application_yaml
-Kubernetes_application_yaml
+# eks-demos
+Readme file to be updated
